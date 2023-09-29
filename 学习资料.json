@@ -13,6 +13,8 @@
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
+{"key":"csp_xpath_4kpianku","name":"4k片库网（X）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/4kpianku.json"},
+	
 {
       "key": "lzi",
       "name": "🏭量子资源",
