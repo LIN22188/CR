@@ -81,16 +81,7 @@
             "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/Missav.js"
         },
 
- {
-      "key": "MissAV",
-      "name": "MissAV",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.777
-      },
+
 
  {
             "key": "Hanime",
