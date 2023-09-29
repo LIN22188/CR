@@ -6,6 +6,8 @@
 
 "sites":[
 
+{"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+
 {
             "key": "18AV",
             "name": "18AV2",
@@ -65,10 +67,9 @@
             "searchable": 1,
             "filterable": 1,
             "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
-        }
+        },
 
-
-
+{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
 
 ]，
