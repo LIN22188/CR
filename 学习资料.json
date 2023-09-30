@@ -98,6 +98,17 @@
             "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/Missav.js"
         },
 
+{
+            "key": "dr_Missav",
+            "name": "Missav(实验)",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/LIN22188/CR/main/lib/1-drpy2.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://raw.githubusercontent.com/LIN22188/CR/main/js/Missav.js"
+        },
+
  {
             "key": "Hanime",
             "name": "Hanime",
