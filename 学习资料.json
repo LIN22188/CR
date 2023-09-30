@@ -69,8 +69,8 @@
 	"jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"
 },
 
+{"key": "LIBVIO","name": "LIBVIO","type": 1,"api": "./lib/drpy2.min.js","ext": "./js/LIBVIO.js"},
 
-	
 {
       "key": "lzi",
       "name": "🏭量子资源",
