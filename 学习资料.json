@@ -13,8 +13,15 @@
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"mino4K","name":"⛅┃mino┃4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"},
-     {
+{
+	"key":"mino4K",
+	"name":"⛅┃mino┃4K",
+	"type":3,
+	"api":"csp_Appto",
+	"ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx",
+	"jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"
+},
+
 
 	
 {
