@@ -79,52 +79,7 @@
       "ext": "https://pan.shangui.cc/f/ALbTy/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
 
- {
-    "key": "速播",
-    "name": "速播",
-    "api": "https://subocaiji.com/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 26
-  },
-
- {
-      "key": "csp_AppYsV2_酷影蓝光",
-      "name": "酷影蓝光",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://kuyun.realku.cn/api.php/app/"
-    },
-
-    {
-      "key": "csp_AppYsV2_如意4K",
-      "name": "如意4k",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms.maoyingshi.cc/api.php/app/",
-      "playUrl": "json:https://jx.4kdv.com/?url="
-    },
-
-    {
-      "key": "csp_AppYsV2_多米蓝光",
-      "name": "多米蓝光",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vod.dmdh.top:5680/api.php/app/"
-    },
+{"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/4KHDR.json"},
 
 {
             "key": "18AV",
