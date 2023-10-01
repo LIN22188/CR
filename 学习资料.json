@@ -79,17 +79,38 @@
       "ext": "https://pan.shangui.cc/f/ALbTy/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
 
-{
-      "key": "布雷蓝光",
-      "name": "⚡布雷┃蓝光",
+ {
+      "key": "csp_AppYsV2_酷影蓝光",
+      "name": "酷影蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playUrl": "",
-      "ext": "http://dy01.bulei.cc/api.php/app/",
-      "jar": "https://pan.shangui.cc/f/DedHz/YSC.jar"
+      "ext": "http://kuyun.realku.cn/api.php/app/"
+    },
+
+    {
+      "key": "csp_AppYsV2_如意4K",
+      "name": "如意4k",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.maoyingshi.cc/api.php/app/",
+      "playUrl": "json:https://jx.4kdv.com/?url="
+    },
+
+    {
+      "key": "csp_AppYsV2_多米蓝光",
+      "name": "多米蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vod.dmdh.top:5680/api.php/app/"
     },
 
 {
