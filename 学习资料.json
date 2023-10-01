@@ -80,6 +80,19 @@
     },
 
  {
+    "key": "速播",
+    "name": "速播",
+    "api": "https://subocaiji.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 26
+  },
+
+ {
       "key": "csp_AppYsV2_酷影蓝光",
       "name": "酷影蓝光",
       "type": 3,
