@@ -67,7 +67,90 @@
 	"ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx",
 	"jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"
 },
+        {
+            "key": "csp_woggcli",
+            "name": "♻️俊哥玩偶.T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+        },
+        {
+            "key": "csp_WoGG",
+            "name": "♻️玩偶.饭",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://tvfan.xxooo.cf/"
+        },
+        {
+            "key": "玩偶弹幕版",
+            "name": "♻️玩偶哥哥弹幕版|4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
+                "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
+                "danmu": true
+            },
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
+        },
 
+{
+            "key": "♻️dr_低端♻️",
+            "name": "♻️低端(drpy)",
+            "type": 3,
+            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://hjdhnx.github.io/dr_py/js/ddys.js"
+        },
+
+        {
+            "key": "♻️荐片♻️",
+            "name": "♻️荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": false
+            },
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
+        },
+        {
+            "key": "荐片弹幕版",
+            "name": "♻️荐片弹幕版",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
+        },
+        {
+            "key": "♻️dr_荐片♻️",
+            "name": "♻️荐片(drpy)",
+            "type": 3,
+            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://hjdhnx.github.io/dr_py/js/荐片.js",
+            "playerType": 1
+        },
 {
       "key": "csp_xpath_yinfans",
       "name": "💥音范丝4K",
@@ -78,6 +161,18 @@
       "filterable": 1,
       "ext": "https://pan.shangui.cc/f/ALbTy/音范丝.json"
     },
+{
+            "key": "csp_XYQHikerAL_4KHDR",
+            "name": "♻️4KHDR🧲📀",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/o2e0c7/4KHDR.json",
+            "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
+        },
 
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},
 
@@ -144,8 +239,75 @@
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 
-{"name": "web聚合","type": 3,"url": "Web"}
+{"name": "web聚合","type": 3,"url": "Web"},
 
+    {
+            "name": "♻️神秘的哥哥们",
+            "type": 1,
+            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+        },
+        {
+            "name": "♻️解析",
+            "type": 1,
+            "url": "https://jx.zhanlangbu.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "♻️全部",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+        },
+        {
+            "name": "♻️zhanglang",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        }
 ],
 
 
