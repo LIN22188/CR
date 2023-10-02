@@ -299,17 +299,6 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
-    "parses": [
-        {
-            "name": "♻️聚合1",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "♻️聚合0",
-            "type": 3,
-            "url": "Web"
-        },
         {
             "name": "♻️神秘的哥哥们",
             "type": 1,
